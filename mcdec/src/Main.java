@@ -1,7 +1,4 @@
-import java.awt.*;
 import java.util.*;
-import java.io.*;
-import java.awt.datatransfer.*;
 
 public class Main {
     public static HashMap<Character, String> morseCode = new HashMap<Character, String>();
